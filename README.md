@@ -1,5 +1,7 @@
 # Eventide
 
+# Link: https://mattrubbelke.github.io/Eventide/
+
 # About Eventide
 Eventide! We know planning an evening out can be stressful or time-consuming. Find your events and eats with ease! This application finds events in cities across the globe and restaurants nearby. 
 
